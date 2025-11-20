@@ -11,3 +11,7 @@ function esPregunta(texto) {
 }
 
 
+module.exports = {
+    contarPalabras,
+    esPregunta
+};
